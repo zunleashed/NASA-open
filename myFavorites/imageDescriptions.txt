@@ -1,0 +1,19 @@
+rosette decam 4000:
+Name & Catalog: Rosette Nebula, also known as NGC 2237.
+Image Source: Captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory, Chile.
+Central Feature: Contains open star cluster NGC 2244.
+Star Formation: Cluster stars formed ~4 million years ago from nebular material.
+Nebula Shaping: Stellar winds from the cluster are clearing a central cavity, surrounded by dust and hot gas.
+Glow Cause: Ultraviolet light from hot stars excites the surrounding gas, making it glow.
+Size & Distance: About 100 light-years across, located ~5,000 light-years away.
+
+lua_julho_25_2048:
+Date & Event: Full Moon on July 10.
+Location: Conceição do Coité, Bahia, Brazil (southern hemisphere).
+Photography: Captured with both short and long exposures, then combined.
+Effect: Shows lunar surface detail in bright moonlight and subtle iridescence in backlit clouds.
+Seasonal Context: Winter moon in the southern hemisphere; called the Thunder Moon in the northern hemisphere.
+Name Origin: “Thunder Moon” likely refers to frequent storms in northern summer.
+
+
+
